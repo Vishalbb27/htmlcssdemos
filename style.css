@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+
+.fruits{
+    border: 2px solid red;
+    color : green;
+    display: inline-block;
+}
