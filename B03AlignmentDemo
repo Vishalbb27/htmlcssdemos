@@ -32,39 +32,20 @@
   </head>
 
   <body>
-    <h1>Heading demo</h1>
-    <p class="text-lowercase">THIS IS UPPERCASE</p>
+    <h1>Text Allignment</h1>
+    <p class="text-justify">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto fugit
+      neque porro sapiente veritatis sunt magnam provident qui at, beatae
+      laboriosam eum nam, voluptatibus officiis rerum natus molestiae reiciendis
+      alias nulla commodi odit laborum!
+    </p>
+    <p class="tex-justify">Lorem ipsum dolor sit.</p>
+    <p class="text-left">Text align left</p>
 
-    <blockquote class="blockquote text-right">
-      <p>Alligned Right</p>
-    </blockquote>
-
-    <ul class="list-unstyled">
-      <li>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi a
-        molestiae aspernatur delectus voluptates iure exercitationem, pariatur,
-        hic vitae quidem, esse possimus et molestias nostrum eum voluptatum
-        quisquam sapiente distinctio?
-      </li>
-      <li>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis
-        praesentium unde, dolore, ipsa totam quod facilis sed voluptas id
-        possimus necessitatibus doloremque, eaque quas impedit veniam maiores
-        atque accusamus. Consequatur.
-      </li>
-      <li>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores
-        deleniti quod corporis quas pariatur quo, saepe optio placeat fugit
-        suscipit nihil voluptatibus accusamus! Libero autem rem quae illum?
-        Sint, amet?
-      </li>
-    </ul>
-
-    <ul>
-        <li>Home</li>
-        <li>Products</li>
-        <li>Contact Us</li>
-        <li>About Us</li>
-    </ul>
+    <div class="container">
+      <span class="align-baseline"> </span>
+      <span> </span>
+      <span></span>
+    </div>
   </body>
 </html>
